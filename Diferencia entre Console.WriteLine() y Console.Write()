@@ -1,0 +1,7 @@
+// Al final de linea agrega un avance de linea
+Console.WriteLine("Hello World"); 
+
+// Imprimir en la consola de salida, pero sin agregar un avance de linea al final
+Console.Write("Congratulations!");
+Console.Write("");
+Console.Write("You wrote your first lines of code.");
