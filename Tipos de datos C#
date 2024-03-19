@@ -1,0 +1,28 @@
+// En comillas simples solo espera un caracter esto se le denomina (Char)
+
+Console.WriteLine('b');
+
+// En comillas dobles si espera uno o mas char esto se le denomina (String)
+
+Console.WriteLine("Hello Wordl!");
+
+// Esto es un tipo de dato Int (Entero)
+
+Console.WriteLine(123);
+
+// Esto es un tipo de dato flotante (float)
+
+Console.WriteLine(0.25F);
+
+// Esto es un tipo de dato flotante (double)
+
+Console.WriteLine(2.625);
+
+// Esto es un tipo de dato flotante (decimal)
+
+Console.WriteLine(12.39616m);
+
+// Tipo de dato Booleano
+
+Console.WriteLine(true);
+Console.WriteLine(false);
